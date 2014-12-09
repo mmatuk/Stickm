@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stickm</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_player_select">Player Select</string>
+    <string name="player1Health">player1.health</string>
+    <string name="current_player_player1">Player 1</string>
+    <string name="title_activity_player_attack">Player Attack</string>
+    <string name="player_placeholder">player</string>
+    <string name="attkString">Pick Attack Location</string>
+    <string name="defString">Pick Deffensive Location</string>
+    <string name="stanceString">Pick Stance Type</string>
+    <string name="title_activity_results">Results</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="txt_confirm">Are you sure you want to quit the current game? All data for the current game will be lost.</string>
+    <string name="help">
+        Welcome to the Stickm game.\n\n
+        
+       1.) Choose your charater.\n\n
+       
+       2.) Choose your attack location:\n
+        	\t High:\n
+        	\t\t Attacks the player high.\n
+        	\t Middle:\n
+        	\t\t Attacks the players in the Middle.\n
+        	\t Low:\n
+        	\t\t Attacks the player Low.\n\n
+        	
+       3.) Choose your Defense location:\n
+        	\t High:\n
+        	\t\t Attacks the player high.\n
+        	\t Middle:\n
+        	\t\t Attacks the players in the Middle.\n
+        	\t Low:\n
+        	\t\t Attacks the player Low.\n\n
+        	
+        4.) Choose your Stance Type:\n
+        	\t Defensive:\n
+        	\t\t This type gives you a boost to your denfense but hurts your attack damage.\n
+        	\t Netural:\n
+        	\t\t This type gives no boost or negative effect to either defense or attack.\n
+        	\t Aggressive:\n
+        	\t\t This type give a boost to your attack damage but hurts your denfese ability.\n\n
+        	
+        5.) Bring the other players health to zero before that person kills you.\n\n
+        
+        Hint: Damge is based of the location of your attack and the location of the other players defense. \n
+        \tEx: If you choose to attack high and the other player defends low, then your damage delt to the other player will be more than if the other player chose to block high too. The stance will increase or decrese the damge done depending of what stance you chose.
+        </string>
+    <string name="help_title">Instructions</string>
+
+</resources>
