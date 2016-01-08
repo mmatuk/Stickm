@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\drawable-ldpi\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\progress_bar.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\drawable-ldpi\\progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\drawable-ldpi\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_pressed.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\drawable-ldpi\\btn_pressed.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\btn_pressed.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\drawable-ldpi\\btn_pressed.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\progress_bar.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\drawable-ldpi\\progress_bar.xml"
+    }
+]

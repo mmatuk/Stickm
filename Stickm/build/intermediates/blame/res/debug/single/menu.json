@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\results.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\menu\\results.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\player_select.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\menu\\player_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\player_attack.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\menu\\player_attack.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\player_select.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\menu\\player_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\results.xml",
+        "source": "C:\\Users\\mjmat\\StudioProjects\\Stickm_001\\Stickm\\src\\main\\res\\menu\\results.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\build\\intermediates\\res\\merged\\debug\\menu\\player_attack.xml",
+        "source": "Z:\\Users\\mjmat\\Desktop\\stickm\\Stickm\\src\\main\\res\\menu\\player_attack.xml"
+    }
+]

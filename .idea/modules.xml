@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Stickm/Stickm.iml" filepath="$PROJECT_DIR$/Stickm/Stickm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickm.iml" filepath="$PROJECT_DIR$/stickm.iml" />
+    </modules>
+  </component>
+</project>
