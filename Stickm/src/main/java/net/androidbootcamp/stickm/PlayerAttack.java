@@ -1,7 +1,7 @@
 //*********************************************************************
 // PlayerAttack.java 						Group 1
-// CSIT 266									Project
-// this class is for teh screen that allows the player to pick
+// CSIT 266							Project
+// this class is for the screen that allows the player to pick
 // there attack location, defense location, and the stance type.
 // When ever the player pick a location, the button changes color
 // and a method is called to set the players location.
